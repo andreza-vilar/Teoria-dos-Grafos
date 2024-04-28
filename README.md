@@ -1,6 +1,6 @@
-# Repositório de Programação em Python - Teoria dos Grafos
+# Repositório de Teoria dos Grafos
 
-Repositório de Programação em Python - Teoria dos Grafos
+Repositório de Teoria dos Grafos
 Este repositório contém uma coleção de atividades de programação em Python desenvolvidas durante a disciplina de Teoria dos Grafos na Universidade Federal de Campina Grande (UFCG). O objetivo principal é compartilhar os conhecimentos desenvolvidos e adquirido em relação a implementação de algoritmos e estruturas de dados relacionados a grafos usando a linguagem Python.
 
 # Conteúdo do Repositório
